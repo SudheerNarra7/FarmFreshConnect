@@ -22,7 +22,7 @@ FarmFreshConnect is a mobile application designed to bridge the gap between loca
 * **Platform:** [Expo SDK 52](https://expo.dev/)
 * **Routing:** [Expo Router v4](https://docs.expo.dev/router/introduction/)
 * **Language:** [TypeScript](https://www.typescriptlang.org/)
-* **Styling:** (Potentially [NativeWind](https://www.nativewind.dev/) - based on `app.json` and `tsconfig.json`) + Core React Native Styles + `expo-linear-gradient`, `expo-blur`
+* **Styling:** ([NativeWind](https://www.nativewind.dev/) - based on `app.json` and `tsconfig.json`) + Core React Native Styles + `expo-linear-gradient`, `expo-blur`
 * **State Management:** (Likely component state or Context API - no specific library listed)
 * **UI Libraries:** `@expo/vector-icons`, `lucide-react-native`, `react-native-gesture-handler`, `react-native-reanimated`, `react-native-safe-area-context`, `react-native-screens`, `react-native-svg`
 * **Fonts:** `@expo-google-fonts/poppins`, `expo-font`
